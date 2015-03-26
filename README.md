@@ -1,4 +1,4 @@
-flywheel-framework
+Frame
 ==================
 
-Simple PHP Framework
+PHP Framework
