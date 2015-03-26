@@ -1,14 +1,14 @@
 {
-    "name": "tronghieu/flywheel-framework",
+    "name": "quyenminh102/fram_afc",
     "type": "library",
     "description": "The Flywheel PHP framework",
     "keywords": ["framework", "PHP", "MVC"],
-    "homepage": "http://luutronghieu.com",
+    "homepage": "",
     "license": "MIT",
     "authors": [
         {
-            "name": "Luu Trong Hieu",
-            "email": "tronghieu.luu@gmail.com"
+            "name": "Chu Minh Quyen",
+            "email": "quyenminh.102@gmail.com"
         }
     ],
     "require": {
@@ -27,7 +27,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.1-dev"
+            "dev-master": "1.0"
         }
     },
     "minimum-stability": "dev"
