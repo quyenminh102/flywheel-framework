@@ -1,5 +1,5 @@
 {
-    "name": "quyenminh102/fram_afc",
+    "name": "quyenminh102/flywheel-framework",
     "type": "library",
     "description": "The Flywheel PHP framework",
     "keywords": ["framework", "PHP", "MVC"],
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Chu Minh Quyen",
-            "email": "quyenminh.102@gmail.com"
+            "name": "Luu Trong Hieu",
+            "email": "tronghieu.luu@gmail.com"
         }
     ],
     "require": {
